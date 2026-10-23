@@ -12,7 +12,7 @@ Working memory for anyone, human or AI agent, picking this project up. It covers
 - **No analytics session is running.** The script deletes it after segmentation.
 - **Claude Code** is connected to `neo4j-mcp` and `graphacademy` through `hackathon/.mcp.json`.
 - **30 Neo4j skills** are installed in `hackathon/.agents/skills` and linked into `.claude/skills`.
-- **Nothing is committed to git yet.** `fan-journey/` sits untracked inside the cloned `workshop-hackathon` repo.
+- **Code is on GitHub:** https://github.com/MurtazaJ/graph_hackhathon (branch `main`). `fan-journey/` is its own git repo, nested untracked inside the cloned `workshop-hackathon` repo.
 
 ## Where things are
 
@@ -76,5 +76,4 @@ Re-running `intelligence.py segments` **resets the segment names and description
 - [ ] Copilot system prompt and playbook for the demo
 - [ ] Backtest `LIKELY_TO_BUY`, then learn the weights
 - [ ] Store segment names keyed to a stable signature so they survive re-runs
-- [ ] Decide whether to commit `fan-journey/` (and where: fork of the workshop repo or a new repo)
 - [ ] Write the feedback section in the workshop `README.md` (use the Gotchas above)
