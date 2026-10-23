@@ -1,0 +1,18 @@
+venueId,name,city,capacity,kind
+V01,Spreeufer Arena,Berlin,14000,arena
+V02,Kranhalle,Berlin,2500,hall
+V03,Club Lichtblick,Berlin,700,club
+V04,Hafenhalle,Hamburg,3500,hall
+V05,Kiezkeller,Hamburg,600,club
+V06,Isar Dome,Munich,12000,arena
+V07,Backstube,Munich,900,club
+V08,Rheinwerk,Cologne,4000,hall
+V09,Domkeller,Cologne,550,club
+V10,Mainhalle,Frankfurt,3000,hall
+V11,Lindenwerk,Leipzig,1800,hall
+V12,Neckar Arena,Stuttgart,9000,arena
+V13,Donaukanal Halle,Vienna,3200,hall
+V14,Limmatwerk,Zurich,1200,club
+V15,Elbwiesen Festivalgelände,Hamburg,45000,open_air
+V16,Isarauen Gelände,Munich,40000,open_air
+V17,Pleißewiesen,Leipzig,30000,open_air

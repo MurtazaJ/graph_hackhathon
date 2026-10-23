@@ -1,0 +1,3233 @@
+fanId,genre
+F00001,Indie Rock
+F00001,Metal
+F00001,Deutschrap
+F00005,R&B
+F00005,Indie Rock
+F00006,Indie Rock
+F00007,Singer-Songwriter
+F00007,Hip-Hop
+F00008,Punk
+F00011,Hip-Hop
+F00012,Techno
+F00012,Pop
+F00012,Indie Rock
+F00015,Pop
+F00015,Hip-Hop
+F00016,Metal
+F00017,Hip-Hop
+F00017,Deutschrap
+F00018,Deutschrap
+F00019,Techno
+F00019,House
+F00022,Hip-Hop
+F00023,Hip-Hop
+F00023,Deutschrap
+F00023,Metal
+F00024,R&B
+F00024,Singer-Songwriter
+F00025,Indie Rock
+F00025,Pop
+F00027,Punk
+F00028,Techno
+F00028,Pop
+F00029,Hip-Hop
+F00029,Metal
+F00030,Indie Rock
+F00030,Techno
+F00032,Pop
+F00032,Deutschrap
+F00034,Indie Rock
+F00034,Deutschrap
+F00034,Pop
+F00035,Hip-Hop
+F00035,Metal
+F00037,Deutschrap
+F00037,House
+F00039,Indie Rock
+F00040,Pop
+F00043,Metal
+F00044,Hip-Hop
+F00044,Techno
+F00045,Punk
+F00045,Pop
+F00045,Singer-Songwriter
+F00047,Indie Rock
+F00047,Punk
+F00047,Pop
+F00049,Pop
+F00049,R&B
+F00051,Indie Rock
+F00051,Metal
+F00051,Pop
+F00053,R&B
+F00053,Deutschrap
+F00055,House
+F00055,Pop
+F00056,R&B
+F00057,Techno
+F00057,Pop
+F00057,Singer-Songwriter
+F00060,Pop
+F00060,Deutschrap
+F00062,Hip-Hop
+F00062,Techno
+F00063,Pop
+F00064,Techno
+F00064,Indie Rock
+F00065,Techno
+F00066,Hip-Hop
+F00067,Deutschrap
+F00067,Hip-Hop
+F00068,Hip-Hop
+F00068,Singer-Songwriter
+F00069,Hip-Hop
+F00070,Hip-Hop
+F00070,House
+F00072,Indie Rock
+F00075,House
+F00075,Indie Rock
+F00075,Techno
+F00076,Pop
+F00076,Singer-Songwriter
+F00077,Punk
+F00077,R&B
+F00078,Pop
+F00080,Pop
+F00080,Metal
+F00081,Hip-Hop
+F00081,Indie Rock
+F00081,House
+F00082,Hip-Hop
+F00082,Techno
+F00083,Hip-Hop
+F00083,R&B
+F00086,Deutschrap
+F00086,Punk
+F00088,House
+F00089,Pop
+F00089,Hip-Hop
+F00089,Techno
+F00091,Techno
+F00093,Hip-Hop
+F00093,Deutschrap
+F00094,Indie Rock
+F00095,House
+F00096,Pop
+F00098,Singer-Songwriter
+F00098,Hip-Hop
+F00099,Metal
+F00100,Deutschrap
+F00101,Singer-Songwriter
+F00101,Hip-Hop
+F00103,Pop
+F00104,Pop
+F00105,Pop
+F00105,Deutschrap
+F00107,R&B
+F00108,Pop
+F00109,Punk
+F00109,Pop
+F00109,Singer-Songwriter
+F00113,Singer-Songwriter
+F00113,Indie Rock
+F00114,Pop
+F00117,Metal
+F00117,Deutschrap
+F00118,Pop
+F00118,Hip-Hop
+F00120,Singer-Songwriter
+F00120,Metal
+F00121,Pop
+F00121,Deutschrap
+F00122,Indie Rock
+F00122,Pop
+F00123,Pop
+F00124,Punk
+F00125,Techno
+F00125,Hip-Hop
+F00125,Pop
+F00127,Pop
+F00128,Metal
+F00128,Techno
+F00129,Indie Rock
+F00130,Indie Rock
+F00131,Pop
+F00131,Indie Rock
+F00131,R&B
+F00133,Indie Rock
+F00133,Hip-Hop
+F00134,Hip-Hop
+F00134,Techno
+F00134,House
+F00135,House
+F00138,R&B
+F00138,Techno
+F00140,Hip-Hop
+F00141,Singer-Songwriter
+F00143,R&B
+F00145,Techno
+F00145,House
+F00146,Pop
+F00148,Hip-Hop
+F00148,Indie Rock
+F00148,Pop
+F00151,Indie Rock
+F00152,Deutschrap
+F00152,Singer-Songwriter
+F00152,Indie Rock
+F00154,Techno
+F00155,Deutschrap
+F00155,Pop
+F00156,Deutschrap
+F00159,Singer-Songwriter
+F00167,Hip-Hop
+F00167,House
+F00168,Punk
+F00168,Pop
+F00169,Singer-Songwriter
+F00169,Pop
+F00169,R&B
+F00171,Pop
+F00171,Indie Rock
+F00172,Pop
+F00174,Hip-Hop
+F00175,Indie Rock
+F00176,Techno
+F00177,Indie Rock
+F00177,Hip-Hop
+F00177,Deutschrap
+F00179,Hip-Hop
+F00182,Pop
+F00182,Metal
+F00184,Pop
+F00186,Hip-Hop
+F00187,Metal
+F00187,Hip-Hop
+F00188,Metal
+F00188,House
+F00188,Indie Rock
+F00189,Hip-Hop
+F00191,Deutschrap
+F00191,House
+F00194,Deutschrap
+F00194,Punk
+F00194,Pop
+F00195,Metal
+F00195,Deutschrap
+F00195,R&B
+F00196,Techno
+F00196,Singer-Songwriter
+F00197,Metal
+F00197,Deutschrap
+F00200,Singer-Songwriter
+F00202,Pop
+F00202,House
+F00202,Metal
+F00204,Indie Rock
+F00208,Indie Rock
+F00209,Deutschrap
+F00209,Pop
+F00211,Singer-Songwriter
+F00211,Pop
+F00212,R&B
+F00212,Singer-Songwriter
+F00213,Metal
+F00213,House
+F00213,Indie Rock
+F00214,Hip-Hop
+F00214,Metal
+F00214,House
+F00216,Hip-Hop
+F00217,Indie Rock
+F00219,Punk
+F00219,Singer-Songwriter
+F00219,House
+F00220,Pop
+F00220,Deutschrap
+F00220,Hip-Hop
+F00225,Indie Rock
+F00226,Singer-Songwriter
+F00227,House
+F00229,Punk
+F00229,Pop
+F00230,Techno
+F00230,Singer-Songwriter
+F00230,R&B
+F00231,Deutschrap
+F00231,Hip-Hop
+F00232,Pop
+F00232,Hip-Hop
+F00233,Pop
+F00233,Singer-Songwriter
+F00234,Pop
+F00234,Hip-Hop
+F00235,Indie Rock
+F00235,Singer-Songwriter
+F00235,Punk
+F00239,Pop
+F00239,Techno
+F00241,Indie Rock
+F00246,Indie Rock
+F00253,R&B
+F00254,Metal
+F00254,Indie Rock
+F00254,Pop
+F00256,Pop
+F00256,Punk
+F00256,Techno
+F00257,Indie Rock
+F00258,Techno
+F00258,Metal
+F00259,Punk
+F00259,R&B
+F00259,Indie Rock
+F00263,R&B
+F00264,Hip-Hop
+F00264,R&B
+F00267,Hip-Hop
+F00267,Pop
+F00268,R&B
+F00269,Punk
+F00271,Indie Rock
+F00271,Singer-Songwriter
+F00271,Pop
+F00272,Pop
+F00272,Metal
+F00274,Singer-Songwriter
+F00274,Techno
+F00275,Techno
+F00275,Punk
+F00278,Hip-Hop
+F00280,House
+F00280,Indie Rock
+F00281,Techno
+F00281,Punk
+F00281,House
+F00282,R&B
+F00282,Pop
+F00284,Deutschrap
+F00284,Indie Rock
+F00286,Pop
+F00288,Deutschrap
+F00288,Pop
+F00289,House
+F00290,Indie Rock
+F00290,Hip-Hop
+F00290,Deutschrap
+F00291,Metal
+F00291,Techno
+F00292,Deutschrap
+F00292,Metal
+F00295,Deutschrap
+F00295,Indie Rock
+F00298,Singer-Songwriter
+F00298,Hip-Hop
+F00301,Hip-Hop
+F00301,Pop
+F00302,House
+F00303,R&B
+F00309,House
+F00309,Pop
+F00310,Indie Rock
+F00311,Indie Rock
+F00312,R&B
+F00314,House
+F00314,Indie Rock
+F00316,Singer-Songwriter
+F00316,Metal
+F00319,Techno
+F00320,Metal
+F00320,Hip-Hop
+F00320,Punk
+F00324,Punk
+F00325,Metal
+F00325,Singer-Songwriter
+F00326,Deutschrap
+F00327,R&B
+F00327,Hip-Hop
+F00327,Deutschrap
+F00328,Techno
+F00328,Punk
+F00328,Metal
+F00329,Deutschrap
+F00331,Indie Rock
+F00332,Hip-Hop
+F00334,Metal
+F00335,Hip-Hop
+F00335,Singer-Songwriter
+F00336,Techno
+F00336,Metal
+F00337,Hip-Hop
+F00337,House
+F00339,R&B
+F00339,Hip-Hop
+F00343,Pop
+F00345,Indie Rock
+F00346,Deutschrap
+F00346,Indie Rock
+F00346,House
+F00347,Techno
+F00349,Hip-Hop
+F00349,Indie Rock
+F00351,Singer-Songwriter
+F00352,R&B
+F00352,Punk
+F00352,Indie Rock
+F00353,Deutschrap
+F00353,R&B
+F00353,Metal
+F00355,Indie Rock
+F00355,Metal
+F00357,Indie Rock
+F00358,Metal
+F00358,Techno
+F00358,House
+F00359,Pop
+F00361,Deutschrap
+F00362,R&B
+F00362,House
+F00368,Pop
+F00368,Indie Rock
+F00368,Deutschrap
+F00369,Hip-Hop
+F00369,R&B
+F00369,Indie Rock
+F00371,Techno
+F00371,House
+F00371,Punk
+F00375,Deutschrap
+F00378,R&B
+F00379,Pop
+F00381,Pop
+F00383,Techno
+F00383,Metal
+F00385,Techno
+F00385,Pop
+F00385,Singer-Songwriter
+F00386,Pop
+F00386,Indie Rock
+F00386,R&B
+F00388,Punk
+F00389,Hip-Hop
+F00390,Hip-Hop
+F00390,Deutschrap
+F00390,Pop
+F00391,R&B
+F00393,Deutschrap
+F00393,Metal
+F00393,Punk
+F00395,Pop
+F00397,Hip-Hop
+F00397,Singer-Songwriter
+F00397,Pop
+F00398,Techno
+F00398,R&B
+F00402,Hip-Hop
+F00402,Indie Rock
+F00403,R&B
+F00403,Deutschrap
+F00403,Singer-Songwriter
+F00404,Pop
+F00404,Punk
+F00404,R&B
+F00407,Techno
+F00407,Hip-Hop
+F00408,Punk
+F00408,Pop
+F00408,Techno
+F00409,Hip-Hop
+F00411,Hip-Hop
+F00413,Metal
+F00413,House
+F00413,Indie Rock
+F00414,Metal
+F00414,Deutschrap
+F00417,House
+F00417,Pop
+F00419,Metal
+F00419,Pop
+F00419,Hip-Hop
+F00421,Metal
+F00421,Hip-Hop
+F00421,Pop
+F00422,Hip-Hop
+F00422,Indie Rock
+F00423,Metal
+F00425,Punk
+F00427,Techno
+F00427,Metal
+F00433,Hip-Hop
+F00434,Pop
+F00435,Pop
+F00438,Punk
+F00438,Singer-Songwriter
+F00439,Techno
+F00439,R&B
+F00440,Techno
+F00440,Pop
+F00441,Techno
+F00442,Pop
+F00443,House
+F00443,Pop
+F00443,Singer-Songwriter
+F00444,Techno
+F00444,Deutschrap
+F00446,House
+F00446,Hip-Hop
+F00446,Indie Rock
+F00447,Pop
+F00450,Hip-Hop
+F00453,House
+F00454,Indie Rock
+F00454,Singer-Songwriter
+F00455,Deutschrap
+F00455,Singer-Songwriter
+F00455,House
+F00456,Indie Rock
+F00457,Techno
+F00457,Pop
+F00457,Singer-Songwriter
+F00458,House
+F00458,Hip-Hop
+F00460,Hip-Hop
+F00460,Singer-Songwriter
+F00460,Pop
+F00469,R&B
+F00475,Deutschrap
+F00475,Techno
+F00478,R&B
+F00479,Singer-Songwriter
+F00479,House
+F00480,Punk
+F00480,Indie Rock
+F00481,Hip-Hop
+F00483,House
+F00483,Hip-Hop
+F00483,Techno
+F00485,Metal
+F00489,House
+F00491,Pop
+F00491,R&B
+F00492,R&B
+F00492,Hip-Hop
+F00493,House
+F00493,Punk
+F00494,Techno
+F00494,Indie Rock
+F00495,Punk
+F00497,Punk
+F00498,Singer-Songwriter
+F00498,Hip-Hop
+F00498,R&B
+F00500,Hip-Hop
+F00500,Techno
+F00501,Hip-Hop
+F00501,Indie Rock
+F00501,Pop
+F00502,Pop
+F00502,House
+F00503,Deutschrap
+F00503,Hip-Hop
+F00504,Hip-Hop
+F00504,Indie Rock
+F00504,R&B
+F00505,Hip-Hop
+F00506,R&B
+F00506,Techno
+F00508,R&B
+F00508,Pop
+F00508,Hip-Hop
+F00510,Hip-Hop
+F00510,Techno
+F00511,R&B
+F00511,Indie Rock
+F00513,Metal
+F00514,Hip-Hop
+F00514,Metal
+F00515,Techno
+F00515,Deutschrap
+F00516,Pop
+F00516,House
+F00519,Singer-Songwriter
+F00520,Pop
+F00523,Deutschrap
+F00523,Hip-Hop
+F00527,Deutschrap
+F00527,Indie Rock
+F00528,Pop
+F00528,House
+F00529,Indie Rock
+F00529,Pop
+F00529,Punk
+F00533,House
+F00533,Singer-Songwriter
+F00538,Deutschrap
+F00538,Indie Rock
+F00539,R&B
+F00539,Pop
+F00539,Singer-Songwriter
+F00544,Pop
+F00544,Techno
+F00546,Deutschrap
+F00552,Indie Rock
+F00552,Techno
+F00553,Deutschrap
+F00553,Techno
+F00553,Indie Rock
+F00554,House
+F00554,Hip-Hop
+F00560,Punk
+F00561,Indie Rock
+F00561,Deutschrap
+F00561,Punk
+F00562,Indie Rock
+F00562,Deutschrap
+F00562,Punk
+F00564,R&B
+F00565,Singer-Songwriter
+F00566,Indie Rock
+F00566,Deutschrap
+F00568,Hip-Hop
+F00568,Indie Rock
+F00568,Deutschrap
+F00570,Hip-Hop
+F00570,Deutschrap
+F00571,Pop
+F00571,Singer-Songwriter
+F00572,R&B
+F00573,Deutschrap
+F00575,Techno
+F00576,Deutschrap
+F00576,Punk
+F00577,Singer-Songwriter
+F00577,Pop
+F00577,Punk
+F00580,Techno
+F00580,Hip-Hop
+F00583,Pop
+F00583,Hip-Hop
+F00583,Punk
+F00585,R&B
+F00585,Pop
+F00586,House
+F00586,Techno
+F00586,R&B
+F00587,House
+F00587,Pop
+F00589,Pop
+F00589,Hip-Hop
+F00592,Metal
+F00592,Pop
+F00593,Indie Rock
+F00593,House
+F00594,Hip-Hop
+F00594,Indie Rock
+F00598,Punk
+F00598,Pop
+F00600,Hip-Hop
+F00601,Hip-Hop
+F00601,Techno
+F00602,Techno
+F00602,Indie Rock
+F00603,Punk
+F00604,Punk
+F00604,R&B
+F00607,Indie Rock
+F00608,Singer-Songwriter
+F00608,Indie Rock
+F00609,Singer-Songwriter
+F00609,Hip-Hop
+F00609,Indie Rock
+F00611,Techno
+F00611,R&B
+F00613,Techno
+F00614,Punk
+F00614,Pop
+F00615,Indie Rock
+F00617,Singer-Songwriter
+F00617,House
+F00617,Hip-Hop
+F00619,Punk
+F00621,Techno
+F00621,Hip-Hop
+F00621,Pop
+F00622,Indie Rock
+F00623,Hip-Hop
+F00623,Pop
+F00624,Techno
+F00624,Hip-Hop
+F00627,Techno
+F00627,R&B
+F00628,Pop
+F00629,Pop
+F00630,Deutschrap
+F00630,Indie Rock
+F00631,Pop
+F00633,Punk
+F00635,Hip-Hop
+F00635,R&B
+F00636,Techno
+F00636,Singer-Songwriter
+F00638,Techno
+F00638,Metal
+F00639,Metal
+F00639,Indie Rock
+F00641,Hip-Hop
+F00641,Indie Rock
+F00643,Techno
+F00643,Deutschrap
+F00643,Indie Rock
+F00644,Singer-Songwriter
+F00645,Techno
+F00645,Pop
+F00646,Indie Rock
+F00646,Techno
+F00647,Punk
+F00648,Punk
+F00648,Deutschrap
+F00650,R&B
+F00652,Hip-Hop
+F00655,House
+F00655,Pop
+F00656,Techno
+F00656,Pop
+F00656,Punk
+F00657,Pop
+F00657,Punk
+F00658,Deutschrap
+F00659,Techno
+F00659,Pop
+F00659,Deutschrap
+F00662,Pop
+F00662,Hip-Hop
+F00662,House
+F00664,Pop
+F00665,R&B
+F00666,R&B
+F00666,Indie Rock
+F00666,Pop
+F00667,Deutschrap
+F00668,House
+F00668,Pop
+F00668,R&B
+F00669,Punk
+F00671,Indie Rock
+F00672,Indie Rock
+F00672,Deutschrap
+F00673,House
+F00674,Pop
+F00674,Punk
+F00676,Indie Rock
+F00676,Pop
+F00677,Singer-Songwriter
+F00677,House
+F00678,Techno
+F00678,Deutschrap
+F00687,Pop
+F00687,R&B
+F00687,Techno
+F00689,Deutschrap
+F00689,Hip-Hop
+F00690,R&B
+F00690,Indie Rock
+F00691,Punk
+F00691,Indie Rock
+F00693,Punk
+F00693,House
+F00694,Pop
+F00694,Hip-Hop
+F00694,R&B
+F00695,Pop
+F00696,Metal
+F00696,Hip-Hop
+F00696,Indie Rock
+F00697,Deutschrap
+F00697,Metal
+F00697,Hip-Hop
+F00698,Metal
+F00698,Indie Rock
+F00699,Pop
+F00699,Hip-Hop
+F00700,Techno
+F00700,Singer-Songwriter
+F00701,Metal
+F00701,Indie Rock
+F00701,Hip-Hop
+F00702,Pop
+F00703,House
+F00706,House
+F00706,Indie Rock
+F00707,R&B
+F00707,Singer-Songwriter
+F00709,Pop
+F00709,Techno
+F00709,Hip-Hop
+F00710,Singer-Songwriter
+F00711,Singer-Songwriter
+F00711,Hip-Hop
+F00714,Deutschrap
+F00715,Techno
+F00716,Punk
+F00717,Hip-Hop
+F00718,Pop
+F00718,Techno
+F00719,Singer-Songwriter
+F00719,Indie Rock
+F00721,Deutschrap
+F00721,Pop
+F00722,Metal
+F00722,R&B
+F00723,Singer-Songwriter
+F00723,House
+F00724,Pop
+F00726,Hip-Hop
+F00726,Singer-Songwriter
+F00728,Singer-Songwriter
+F00729,Hip-Hop
+F00729,Deutschrap
+F00729,Techno
+F00730,Pop
+F00732,House
+F00733,Pop
+F00734,Indie Rock
+F00735,Pop
+F00735,Metal
+F00735,House
+F00738,Deutschrap
+F00738,House
+F00740,Punk
+F00740,Pop
+F00740,Hip-Hop
+F00743,Punk
+F00748,R&B
+F00748,Pop
+F00749,Hip-Hop
+F00750,Punk
+F00750,R&B
+F00752,Deutschrap
+F00753,Hip-Hop
+F00753,Pop
+F00754,House
+F00754,Pop
+F00754,Metal
+F00755,R&B
+F00755,Hip-Hop
+F00758,R&B
+F00758,Hip-Hop
+F00760,Indie Rock
+F00761,Indie Rock
+F00762,Pop
+F00763,Pop
+F00763,Metal
+F00765,Hip-Hop
+F00765,Deutschrap
+F00766,Indie Rock
+F00766,House
+F00766,Pop
+F00767,Pop
+F00767,Deutschrap
+F00767,R&B
+F00773,Hip-Hop
+F00773,House
+F00774,Techno
+F00775,Hip-Hop
+F00775,R&B
+F00776,Indie Rock
+F00776,House
+F00779,Singer-Songwriter
+F00781,Deutschrap
+F00781,R&B
+F00781,House
+F00782,Hip-Hop
+F00783,Punk
+F00783,R&B
+F00787,Metal
+F00787,Indie Rock
+F00787,Techno
+F00789,House
+F00790,Metal
+F00792,Hip-Hop
+F00793,R&B
+F00797,Pop
+F00797,Techno
+F00797,Indie Rock
+F00799,Metal
+F00799,Hip-Hop
+F00801,Hip-Hop
+F00802,Metal
+F00802,Indie Rock
+F00802,Hip-Hop
+F00804,Hip-Hop
+F00804,Deutschrap
+F00805,Indie Rock
+F00805,Techno
+F00806,Singer-Songwriter
+F00806,Deutschrap
+F00806,Indie Rock
+F00807,Hip-Hop
+F00807,Metal
+F00810,Pop
+F00811,Deutschrap
+F00811,Singer-Songwriter
+F00812,Singer-Songwriter
+F00812,Pop
+F00814,R&B
+F00815,House
+F00815,R&B
+F00817,Metal
+F00817,Pop
+F00818,Metal
+F00819,Hip-Hop
+F00819,House
+F00819,Indie Rock
+F00822,Hip-Hop
+F00825,Singer-Songwriter
+F00826,Indie Rock
+F00826,Metal
+F00827,Singer-Songwriter
+F00827,Pop
+F00828,R&B
+F00832,R&B
+F00833,Deutschrap
+F00833,Techno
+F00833,R&B
+F00835,Techno
+F00835,Deutschrap
+F00835,Singer-Songwriter
+F00836,Singer-Songwriter
+F00838,Indie Rock
+F00841,Indie Rock
+F00841,Techno
+F00842,Singer-Songwriter
+F00842,R&B
+F00843,Punk
+F00843,Pop
+F00844,House
+F00844,Techno
+F00845,Hip-Hop
+F00846,Singer-Songwriter
+F00846,Hip-Hop
+F00847,Pop
+F00848,Indie Rock
+F00849,Deutschrap
+F00849,Hip-Hop
+F00852,House
+F00852,Techno
+F00856,Pop
+F00856,Techno
+F00857,Hip-Hop
+F00858,Deutschrap
+F00858,Pop
+F00858,Hip-Hop
+F00862,Techno
+F00864,Metal
+F00865,Hip-Hop
+F00865,Singer-Songwriter
+F00865,Indie Rock
+F00866,House
+F00866,Indie Rock
+F00869,Pop
+F00869,R&B
+F00870,Hip-Hop
+F00872,Deutschrap
+F00875,Hip-Hop
+F00875,Deutschrap
+F00876,R&B
+F00876,Deutschrap
+F00878,Pop
+F00878,Deutschrap
+F00881,Singer-Songwriter
+F00884,Pop
+F00885,Techno
+F00885,Pop
+F00886,Indie Rock
+F00886,Metal
+F00887,Techno
+F00888,Metal
+F00888,Indie Rock
+F00888,Singer-Songwriter
+F00889,Pop
+F00890,Pop
+F00891,Indie Rock
+F00891,Deutschrap
+F00891,Hip-Hop
+F00893,House
+F00893,Indie Rock
+F00893,R&B
+F00894,Singer-Songwriter
+F00894,Hip-Hop
+F00894,Pop
+F00896,Metal
+F00896,Deutschrap
+F00897,House
+F00897,Singer-Songwriter
+F00900,Pop
+F00901,Deutschrap
+F00903,Indie Rock
+F00904,Hip-Hop
+F00904,Metal
+F00905,Deutschrap
+F00905,Pop
+F00907,Deutschrap
+F00907,House
+F00907,Pop
+F00908,Metal
+F00909,Singer-Songwriter
+F00909,Hip-Hop
+F00909,Pop
+F00911,Hip-Hop
+F00911,Metal
+F00912,Deutschrap
+F00912,Pop
+F00913,R&B
+F00913,Punk
+F00914,R&B
+F00914,Metal
+F00915,R&B
+F00915,Metal
+F00915,House
+F00916,Metal
+F00916,Indie Rock
+F00917,Techno
+F00918,R&B
+F00920,Metal
+F00920,R&B
+F00922,Indie Rock
+F00922,Pop
+F00925,Metal
+F00925,Indie Rock
+F00928,Punk
+F00928,House
+F00928,Indie Rock
+F00929,Pop
+F00929,Techno
+F00929,R&B
+F00930,Singer-Songwriter
+F00930,Metal
+F00931,Techno
+F00931,Metal
+F00931,Singer-Songwriter
+F00933,R&B
+F00933,Hip-Hop
+F00934,Indie Rock
+F00934,Deutschrap
+F00935,Punk
+F00937,Pop
+F00938,Hip-Hop
+F00938,Pop
+F00939,Pop
+F00939,Deutschrap
+F00942,Punk
+F00942,R&B
+F00943,Techno
+F00944,Hip-Hop
+F00945,Hip-Hop
+F00945,Indie Rock
+F00949,Pop
+F00949,Indie Rock
+F00950,Deutschrap
+F00951,R&B
+F00952,Hip-Hop
+F00952,Singer-Songwriter
+F00952,Indie Rock
+F00953,Indie Rock
+F00954,Deutschrap
+F00956,Techno
+F00957,House
+F00957,Singer-Songwriter
+F00958,Hip-Hop
+F00959,Pop
+F00961,Indie Rock
+F00963,Deutschrap
+F00963,Indie Rock
+F00963,Pop
+F00964,Techno
+F00964,Hip-Hop
+F00965,Singer-Songwriter
+F00968,House
+F00968,Metal
+F00971,Punk
+F00971,Singer-Songwriter
+F00972,Techno
+F00972,Indie Rock
+F00973,Metal
+F00973,Hip-Hop
+F00974,Singer-Songwriter
+F00975,Hip-Hop
+F00975,Pop
+F00978,Metal
+F00978,Deutschrap
+F00979,Techno
+F00980,Punk
+F00981,Hip-Hop
+F00981,Techno
+F00982,House
+F00982,Deutschrap
+F00982,Pop
+F00983,Singer-Songwriter
+F00988,Deutschrap
+F00990,Deutschrap
+F00990,Indie Rock
+F00991,House
+F00991,Singer-Songwriter
+F00991,Indie Rock
+F00992,Metal
+F00992,Punk
+F00992,Hip-Hop
+F00994,Punk
+F00995,Hip-Hop
+F00995,R&B
+F00995,Deutschrap
+F00996,House
+F00998,Hip-Hop
+F00998,Indie Rock
+F00998,Pop
+F01001,Indie Rock
+F01001,Punk
+F01001,Singer-Songwriter
+F01002,House
+F01004,Pop
+F01004,Hip-Hop
+F01006,Pop
+F01006,Indie Rock
+F01008,Pop
+F01009,Singer-Songwriter
+F01010,Metal
+F01011,Techno
+F01011,R&B
+F01014,Pop
+F01016,House
+F01016,Pop
+F01017,Techno
+F01017,Pop
+F01017,Singer-Songwriter
+F01019,Indie Rock
+F01019,Pop
+F01020,Techno
+F01020,Deutschrap
+F01023,R&B
+F01024,Pop
+F01024,Hip-Hop
+F01025,Deutschrap
+F01025,House
+F01026,House
+F01026,Deutschrap
+F01027,Punk
+F01028,Pop
+F01028,Indie Rock
+F01028,Singer-Songwriter
+F01029,Deutschrap
+F01031,House
+F01031,Pop
+F01032,Indie Rock
+F01032,Pop
+F01033,Pop
+F01033,Deutschrap
+F01034,Deutschrap
+F01034,Hip-Hop
+F01048,R&B
+F01048,Punk
+F01048,Pop
+F01051,R&B
+F01051,House
+F01051,Metal
+F01053,Indie Rock
+F01053,House
+F01054,Techno
+F01056,Indie Rock
+F01059,Punk
+F01060,Metal
+F01060,Deutschrap
+F01060,Techno
+F01061,R&B
+F01064,R&B
+F01064,Metal
+F01067,Hip-Hop
+F01070,Indie Rock
+F01071,Indie Rock
+F01072,Techno
+F01072,Pop
+F01072,House
+F01075,Deutschrap
+F01075,Hip-Hop
+F01076,Metal
+F01076,Indie Rock
+F01079,R&B
+F01083,Metal
+F01083,Singer-Songwriter
+F01083,Pop
+F01084,Pop
+F01084,Punk
+F01085,Hip-Hop
+F01085,Indie Rock
+F01085,Metal
+F01087,Metal
+F01087,Deutschrap
+F01087,Pop
+F01088,Deutschrap
+F01089,Techno
+F01090,Pop
+F01092,Deutschrap
+F01092,Pop
+F01092,Punk
+F01093,Hip-Hop
+F01096,Techno
+F01097,Indie Rock
+F01097,Punk
+F01098,Pop
+F01099,Singer-Songwriter
+F01100,Deutschrap
+F01100,Pop
+F01100,House
+F01101,Hip-Hop
+F01101,Singer-Songwriter
+F01102,House
+F01102,R&B
+F01103,House
+F01103,Deutschrap
+F01104,Hip-Hop
+F01104,Pop
+F01107,Hip-Hop
+F01108,R&B
+F01108,Hip-Hop
+F01109,Singer-Songwriter
+F01109,Pop
+F01112,House
+F01112,Hip-Hop
+F01113,House
+F01115,Deutschrap
+F01115,Indie Rock
+F01116,Indie Rock
+F01116,Pop
+F01118,Metal
+F01118,Punk
+F01119,Deutschrap
+F01119,R&B
+F01121,R&B
+F01121,Hip-Hop
+F01122,R&B
+F01123,Techno
+F01123,R&B
+F01123,Indie Rock
+F01126,House
+F01127,Hip-Hop
+F01127,Techno
+F01129,Pop
+F01129,Metal
+F01129,R&B
+F01130,Pop
+F01130,Singer-Songwriter
+F01131,R&B
+F01131,Punk
+F01132,Deutschrap
+F01132,Hip-Hop
+F01132,Indie Rock
+F01133,Punk
+F01133,Indie Rock
+F01134,Pop
+F01134,Punk
+F01136,Singer-Songwriter
+F01136,Indie Rock
+F01137,House
+F01137,Indie Rock
+F01137,Singer-Songwriter
+F01138,Hip-Hop
+F01138,Metal
+F01138,R&B
+F01139,Punk
+F01139,Hip-Hop
+F01140,Techno
+F01140,R&B
+F01143,Punk
+F01145,House
+F01145,Techno
+F01145,Pop
+F01146,Pop
+F01146,Hip-Hop
+F01149,R&B
+F01149,Punk
+F01153,Metal
+F01155,Pop
+F01156,Punk
+F01156,Singer-Songwriter
+F01157,Indie Rock
+F01157,Pop
+F01159,Pop
+F01160,Deutschrap
+F01160,Metal
+F01160,Hip-Hop
+F01161,Techno
+F01161,Punk
+F01162,Hip-Hop
+F01162,Deutschrap
+F01163,Singer-Songwriter
+F01163,Deutschrap
+F01164,Indie Rock
+F01165,Deutschrap
+F01165,Techno
+F01165,House
+F01166,Hip-Hop
+F01168,Indie Rock
+F01169,Pop
+F01169,Hip-Hop
+F01172,Metal
+F01172,Punk
+F01175,R&B
+F01175,Singer-Songwriter
+F01178,Metal
+F01178,Hip-Hop
+F01179,Deutschrap
+F01179,Hip-Hop
+F01179,Indie Rock
+F01180,Punk
+F01180,Pop
+F01185,Indie Rock
+F01185,House
+F01186,Pop
+F01186,Deutschrap
+F01189,Pop
+F01189,Singer-Songwriter
+F01189,Hip-Hop
+F01190,House
+F01190,Pop
+F01191,House
+F01191,Hip-Hop
+F01191,Indie Rock
+F01192,Deutschrap
+F01192,House
+F01192,Indie Rock
+F01193,Singer-Songwriter
+F01193,Metal
+F01193,Punk
+F01194,House
+F01194,Hip-Hop
+F01194,Pop
+F01195,Pop
+F01195,Punk
+F01195,Hip-Hop
+F01197,Hip-Hop
+F01197,House
+F01198,House
+F01198,Deutschrap
+F01198,Singer-Songwriter
+F01200,Techno
+F01200,Hip-Hop
+F01200,Metal
+F01201,Pop
+F01203,Indie Rock
+F01203,Techno
+F01203,Pop
+F01206,House
+F01206,Pop
+F01206,Metal
+F01211,Punk
+F01212,Techno
+F01213,Techno
+F01214,Singer-Songwriter
+F01214,House
+F01214,Deutschrap
+F01215,Pop
+F01215,House
+F01215,Hip-Hop
+F01216,Singer-Songwriter
+F01217,Pop
+F01220,House
+F01223,Singer-Songwriter
+F01223,House
+F01227,Pop
+F01227,Metal
+F01228,Pop
+F01228,Hip-Hop
+F01228,Singer-Songwriter
+F01229,Pop
+F01229,Singer-Songwriter
+F01230,Hip-Hop
+F01230,Singer-Songwriter
+F01232,House
+F01233,Metal
+F01233,Indie Rock
+F01234,Deutschrap
+F01235,Indie Rock
+F01235,Metal
+F01235,Techno
+F01237,Punk
+F01238,House
+F01238,Deutschrap
+F01238,Pop
+F01241,Indie Rock
+F01241,Pop
+F01242,Deutschrap
+F01243,Punk
+F01243,Techno
+F01244,R&B
+F01244,House
+F01246,Singer-Songwriter
+F01246,Hip-Hop
+F01247,Hip-Hop
+F01247,Deutschrap
+F01250,Pop
+F01251,R&B
+F01251,Techno
+F01253,Hip-Hop
+F01254,Pop
+F01255,Punk
+F01256,Indie Rock
+F01258,Punk
+F01258,Techno
+F01260,Singer-Songwriter
+F01261,Pop
+F01262,Pop
+F01265,Singer-Songwriter
+F01265,House
+F01268,Deutschrap
+F01268,House
+F01269,House
+F01269,Hip-Hop
+F01271,Pop
+F01271,Singer-Songwriter
+F01272,Indie Rock
+F01272,Pop
+F01273,Techno
+F01273,Deutschrap
+F01274,Pop
+F01274,Deutschrap
+F01275,Pop
+F01275,Deutschrap
+F01277,Hip-Hop
+F01277,Deutschrap
+F01279,Techno
+F01279,Pop
+F01280,Metal
+F01281,Metal
+F01281,Singer-Songwriter
+F01281,Indie Rock
+F01284,Indie Rock
+F01285,Indie Rock
+F01285,Hip-Hop
+F01286,Hip-Hop
+F01286,Singer-Songwriter
+F01288,Singer-Songwriter
+F01288,Pop
+F01288,House
+F01289,Pop
+F01290,House
+F01290,Pop
+F01290,Metal
+F01291,Pop
+F01291,Metal
+F01292,Techno
+F01293,Singer-Songwriter
+F01293,House
+F01295,House
+F01296,Singer-Songwriter
+F01296,Indie Rock
+F01297,Metal
+F01301,Singer-Songwriter
+F01301,Deutschrap
+F01301,Pop
+F01303,Punk
+F01303,House
+F01305,Techno
+F01306,Pop
+F01306,Singer-Songwriter
+F01306,Indie Rock
+F01309,R&B
+F01311,Indie Rock
+F01311,Pop
+F01312,Metal
+F01312,Deutschrap
+F01312,R&B
+F01314,Indie Rock
+F01314,R&B
+F01315,House
+F01315,Indie Rock
+F01315,Singer-Songwriter
+F01317,House
+F01317,Deutschrap
+F01318,Hip-Hop
+F01318,Techno
+F01318,Deutschrap
+F01319,Indie Rock
+F01321,Hip-Hop
+F01323,House
+F01324,Singer-Songwriter
+F01325,Punk
+F01325,R&B
+F01326,Indie Rock
+F01326,Metal
+F01328,Techno
+F01328,Metal
+F01329,Pop
+F01329,R&B
+F01329,House
+F01330,Techno
+F01330,Punk
+F01331,Indie Rock
+F01331,Techno
+F01331,Pop
+F01334,Hip-Hop
+F01334,Indie Rock
+F01335,Metal
+F01335,Punk
+F01337,R&B
+F01337,Techno
+F01338,Pop
+F01340,Techno
+F01340,Pop
+F01341,Singer-Songwriter
+F01341,R&B
+F01343,R&B
+F01348,Pop
+F01349,Metal
+F01349,Techno
+F01351,Hip-Hop
+F01352,Hip-Hop
+F01353,House
+F01353,Techno
+F01354,Techno
+F01356,R&B
+F01358,Hip-Hop
+F01358,Deutschrap
+F01359,Pop
+F01360,Hip-Hop
+F01362,Hip-Hop
+F01363,Hip-Hop
+F01363,R&B
+F01364,R&B
+F01365,House
+F01365,Singer-Songwriter
+F01366,Pop
+F01366,Techno
+F01368,Pop
+F01369,Pop
+F01369,Hip-Hop
+F01370,Hip-Hop
+F01370,Indie Rock
+F01371,R&B
+F01371,Techno
+F01371,Hip-Hop
+F01372,Hip-Hop
+F01372,Indie Rock
+F01373,Pop
+F01373,Indie Rock
+F01374,Deutschrap
+F01374,Hip-Hop
+F01374,R&B
+F01375,R&B
+F01375,Pop
+F01376,Punk
+F01376,Pop
+F01378,Hip-Hop
+F01378,Punk
+F01380,Techno
+F01381,Hip-Hop
+F01383,Metal
+F01383,House
+F01386,Deutschrap
+F01386,Indie Rock
+F01387,Deutschrap
+F01387,Hip-Hop
+F01388,Metal
+F01389,Metal
+F01390,Pop
+F01390,Techno
+F01392,Techno
+F01392,Hip-Hop
+F01397,Pop
+F01399,R&B
+F01399,Indie Rock
+F01402,Metal
+F01405,Techno
+F01405,Punk
+F01407,House
+F01407,Hip-Hop
+F01408,Deutschrap
+F01410,Pop
+F01410,Hip-Hop
+F01410,Punk
+F01412,Singer-Songwriter
+F01412,House
+F01414,Singer-Songwriter
+F01414,House
+F01415,Pop
+F01416,Indie Rock
+F01416,R&B
+F01417,R&B
+F01419,Pop
+F01419,Deutschrap
+F01422,House
+F01423,Hip-Hop
+F01425,Singer-Songwriter
+F01425,R&B
+F01425,Metal
+F01426,Deutschrap
+F01426,House
+F01427,Indie Rock
+F01427,Singer-Songwriter
+F01428,Pop
+F01432,Punk
+F01432,Hip-Hop
+F01433,Hip-Hop
+F01433,Pop
+F01435,House
+F01439,Indie Rock
+F01440,Hip-Hop
+F01440,Pop
+F01441,House
+F01441,Indie Rock
+F01445,Metal
+F01445,House
+F01445,R&B
+F01447,Indie Rock
+F01447,Pop
+F01452,Pop
+F01453,Metal
+F01453,Hip-Hop
+F01453,Pop
+F01455,Hip-Hop
+F01458,Indie Rock
+F01458,Pop
+F01460,Deutschrap
+F01461,Punk
+F01462,R&B
+F01462,Techno
+F01463,Deutschrap
+F01464,Punk
+F01464,Singer-Songwriter
+F01467,Punk
+F01468,Punk
+F01468,House
+F01470,House
+F01471,Pop
+F01476,Indie Rock
+F01476,Hip-Hop
+F01476,R&B
+F01477,Singer-Songwriter
+F01481,Singer-Songwriter
+F01482,Punk
+F01482,Techno
+F01483,Singer-Songwriter
+F01483,House
+F01484,Pop
+F01484,Deutschrap
+F01484,House
+F01485,Singer-Songwriter
+F01485,Deutschrap
+F01486,Hip-Hop
+F01486,Pop
+F01486,Deutschrap
+F01487,Metal
+F01489,Indie Rock
+F01489,Metal
+F01490,House
+F01490,Deutschrap
+F01491,Indie Rock
+F01491,Deutschrap
+F01492,Techno
+F01492,Deutschrap
+F01492,Pop
+F01493,R&B
+F01493,Indie Rock
+F01494,Hip-Hop
+F01494,Pop
+F01496,Techno
+F01496,R&B
+F01496,Hip-Hop
+F01497,Pop
+F01497,Techno
+F01499,Pop
+F01499,Indie Rock
+F01499,House
+F01504,Pop
+F01506,Indie Rock
+F01506,Techno
+F01508,Hip-Hop
+F01508,Deutschrap
+F01509,Indie Rock
+F01509,House
+F01510,Metal
+F01511,Metal
+F01512,Metal
+F01512,R&B
+F01512,Techno
+F01513,R&B
+F01514,Metal
+F01514,Deutschrap
+F01515,Techno
+F01515,Hip-Hop
+F01515,Punk
+F01516,Singer-Songwriter
+F01518,Hip-Hop
+F01518,Deutschrap
+F01519,Pop
+F01519,Hip-Hop
+F01520,R&B
+F01522,Singer-Songwriter
+F01523,Metal
+F01524,Deutschrap
+F01524,Hip-Hop
+F01524,Pop
+F01528,Punk
+F01528,Deutschrap
+F01529,Punk
+F01529,Deutschrap
+F01529,Pop
+F01531,Hip-Hop
+F01531,Indie Rock
+F01532,Indie Rock
+F01532,Singer-Songwriter
+F01533,Techno
+F01534,Singer-Songwriter
+F01535,Techno
+F01535,Hip-Hop
+F01536,Punk
+F01536,Pop
+F01537,Hip-Hop
+F01538,Techno
+F01541,Deutschrap
+F01541,House
+F01545,Indie Rock
+F01549,Hip-Hop
+F01549,Metal
+F01549,Deutschrap
+F01550,Indie Rock
+F01550,Metal
+F01551,Metal
+F01551,Indie Rock
+F01551,Pop
+F01552,Punk
+F01552,Hip-Hop
+F01553,Metal
+F01553,House
+F01553,Techno
+F01554,Punk
+F01555,Pop
+F01556,Hip-Hop
+F01557,Hip-Hop
+F01557,Pop
+F01558,Deutschrap
+F01558,Singer-Songwriter
+F01560,House
+F01561,House
+F01561,Singer-Songwriter
+F01563,Indie Rock
+F01563,Hip-Hop
+F01563,Metal
+F01564,Metal
+F01564,Hip-Hop
+F01565,Singer-Songwriter
+F01565,Deutschrap
+F01565,Pop
+F01566,R&B
+F01566,Pop
+F01567,Deutschrap
+F01569,Metal
+F01569,Indie Rock
+F01570,Punk
+F01570,House
+F01571,Hip-Hop
+F01571,Indie Rock
+F01574,R&B
+F01574,Pop
+F01574,Deutschrap
+F01575,Singer-Songwriter
+F01575,Punk
+F01575,Techno
+F01576,Metal
+F01576,Punk
+F01577,Hip-Hop
+F01577,Indie Rock
+F01582,Techno
+F01583,Pop
+F01583,Indie Rock
+F01584,Metal
+F01584,Hip-Hop
+F01584,Punk
+F01587,Techno
+F01587,Pop
+F01588,Deutschrap
+F01588,Techno
+F01590,Singer-Songwriter
+F01593,Deutschrap
+F01593,Techno
+F01594,Indie Rock
+F01597,House
+F01598,Punk
+F01601,Hip-Hop
+F01601,Punk
+F01603,R&B
+F01605,House
+F01606,R&B
+F01606,Hip-Hop
+F01608,Singer-Songwriter
+F01608,R&B
+F01610,Indie Rock
+F01610,Deutschrap
+F01610,Metal
+F01613,Metal
+F01613,Deutschrap
+F01614,Techno
+F01619,Singer-Songwriter
+F01620,Pop
+F01621,Hip-Hop
+F01621,Metal
+F01623,House
+F01623,Metal
+F01623,Deutschrap
+F01625,Pop
+F01625,R&B
+F01627,Punk
+F01630,Hip-Hop
+F01630,Indie Rock
+F01630,Deutschrap
+F01631,Pop
+F01633,Singer-Songwriter
+F01633,R&B
+F01634,Hip-Hop
+F01634,Indie Rock
+F01635,Pop
+F01635,Hip-Hop
+F01638,R&B
+F01638,House
+F01639,Hip-Hop
+F01640,Pop
+F01640,Deutschrap
+F01641,Indie Rock
+F01641,House
+F01642,Metal
+F01644,Hip-Hop
+F01644,R&B
+F01644,Techno
+F01649,Pop
+F01649,House
+F01650,Indie Rock
+F01650,Techno
+F01651,Indie Rock
+F01655,Hip-Hop
+F01655,Pop
+F01657,Techno
+F01658,Deutschrap
+F01658,House
+F01660,Indie Rock
+F01660,Metal
+F01661,R&B
+F01661,House
+F01661,Pop
+F01664,Singer-Songwriter
+F01665,House
+F01665,Indie Rock
+F01666,Pop
+F01666,Indie Rock
+F01668,Indie Rock
+F01668,Singer-Songwriter
+F01668,Deutschrap
+F01670,Metal
+F01670,Techno
+F01670,Deutschrap
+F01671,Singer-Songwriter
+F01671,Pop
+F01673,House
+F01673,Singer-Songwriter
+F01674,Hip-Hop
+F01676,Hip-Hop
+F01677,Pop
+F01678,Punk
+F01678,Deutschrap
+F01678,Techno
+F01679,Hip-Hop
+F01680,Hip-Hop
+F01680,R&B
+F01681,R&B
+F01681,Techno
+F01681,Deutschrap
+F01682,Pop
+F01682,Singer-Songwriter
+F01683,Deutschrap
+F01683,Metal
+F01684,Deutschrap
+F01684,Indie Rock
+F01684,Hip-Hop
+F01688,R&B
+F01689,Techno
+F01689,Pop
+F01689,Hip-Hop
+F01690,Deutschrap
+F01691,Pop
+F01694,Indie Rock
+F01694,Pop
+F01695,Hip-Hop
+F01695,Indie Rock
+F01696,Pop
+F01696,Techno
+F01698,R&B
+F01698,House
+F01703,Deutschrap
+F01703,Singer-Songwriter
+F01703,Indie Rock
+F01704,Deutschrap
+F01704,Indie Rock
+F01707,Hip-Hop
+F01707,Singer-Songwriter
+F01708,Hip-Hop
+F01709,R&B
+F01713,Hip-Hop
+F01714,Deutschrap
+F01716,Hip-Hop
+F01717,House
+F01717,Techno
+F01719,Hip-Hop
+F01720,Techno
+F01720,Pop
+F01720,Punk
+F01721,Indie Rock
+F01721,Metal
+F01721,Singer-Songwriter
+F01722,Hip-Hop
+F01722,Punk
+F01724,Pop
+F01725,Indie Rock
+F01725,Metal
+F01729,Metal
+F01731,Hip-Hop
+F01731,Indie Rock
+F01731,House
+F01735,Hip-Hop
+F01738,Singer-Songwriter
+F01739,Pop
+F01739,R&B
+F01740,Pop
+F01740,Techno
+F01741,Pop
+F01741,Metal
+F01742,Hip-Hop
+F01745,Indie Rock
+F01745,Pop
+F01747,Techno
+F01747,House
+F01748,Indie Rock
+F01748,Hip-Hop
+F01750,House
+F01750,Deutschrap
+F01757,Deutschrap
+F01757,Pop
+F01758,Deutschrap
+F01758,Indie Rock
+F01758,Singer-Songwriter
+F01759,Deutschrap
+F01760,Pop
+F01760,Deutschrap
+F01761,Punk
+F01762,Techno
+F01763,Pop
+F01764,Indie Rock
+F01764,Deutschrap
+F01765,Metal
+F01766,Hip-Hop
+F01766,R&B
+F01767,House
+F01767,R&B
+F01769,Techno
+F01769,Punk
+F01770,Deutschrap
+F01771,Indie Rock
+F01772,Techno
+F01772,House
+F01772,Pop
+F01774,Pop
+F01774,Deutschrap
+F01775,Indie Rock
+F01776,House
+F01776,Punk
+F01776,Singer-Songwriter
+F01778,Pop
+F01778,Indie Rock
+F01778,Punk
+F01779,Hip-Hop
+F01780,Metal
+F01780,Hip-Hop
+F01781,Metal
+F01781,Techno
+F01782,Pop
+F01782,Deutschrap
+F01782,Punk
+F01784,Deutschrap
+F01785,Pop
+F01785,Punk
+F01786,House
+F01787,Indie Rock
+F01787,Pop
+F01789,Pop
+F01789,Singer-Songwriter
+F01790,R&B
+F01791,R&B
+F01792,Metal
+F01793,Hip-Hop
+F01793,Deutschrap
+F01797,Metal
+F01798,Hip-Hop
+F01799,Hip-Hop
+F01801,Pop
+F01802,Pop
+F01802,Hip-Hop
+F01804,R&B
+F01804,Techno
+F01805,Pop
+F01806,Pop
+F01807,Indie Rock
+F01807,Punk
+F01808,Indie Rock
+F01808,Techno
+F01811,Deutschrap
+F01811,Hip-Hop
+F01811,Punk
+F01813,Singer-Songwriter
+F01813,Indie Rock
+F01816,Metal
+F01816,Techno
+F01817,R&B
+F01817,Techno
+F01817,Punk
+F01819,Hip-Hop
+F01821,House
+F01821,Singer-Songwriter
+F01824,Indie Rock
+F01825,Indie Rock
+F01825,Techno
+F01826,House
+F01828,Pop
+F01829,Singer-Songwriter
+F01830,Pop
+F01830,Indie Rock
+F01830,Hip-Hop
+F01831,Pop
+F01831,House
+F01832,Punk
+F01834,Hip-Hop
+F01834,Metal
+F01834,Indie Rock
+F01836,Metal
+F01836,Pop
+F01840,Punk
+F01840,Singer-Songwriter
+F01841,Hip-Hop
+F01841,Pop
+F01843,House
+F01843,Indie Rock
+F01844,Pop
+F01845,Deutschrap
+F01845,Pop
+F01845,Punk
+F01846,Pop
+F01846,Deutschrap
+F01847,Pop
+F01848,Singer-Songwriter
+F01848,Metal
+F01849,Indie Rock
+F01853,House
+F01854,Deutschrap
+F01854,Indie Rock
+F01854,Pop
+F01855,Hip-Hop
+F01855,Techno
+F01861,Hip-Hop
+F01862,Pop
+F01862,Singer-Songwriter
+F01863,Metal
+F01863,Indie Rock
+F01864,Indie Rock
+F01864,Singer-Songwriter
+F01866,Deutschrap
+F01866,Pop
+F01867,R&B
+F01867,Hip-Hop
+F01868,Deutschrap
+F01868,House
+F01868,Pop
+F01869,House
+F01869,Pop
+F01870,Singer-Songwriter
+F01870,House
+F01871,Indie Rock
+F01871,Deutschrap
+F01873,Indie Rock
+F01876,R&B
+F01876,Indie Rock
+F01877,Hip-Hop
+F01880,R&B
+F01880,Techno
+F01880,Metal
+F01882,Techno
+F01883,Hip-Hop
+F01884,Pop
+F01884,House
+F01885,Pop
+F01885,Punk
+F01885,Hip-Hop
+F01888,House
+F01888,Deutschrap
+F01889,Deutschrap
+F01889,Indie Rock
+F01890,Pop
+F01891,Deutschrap
+F01891,Singer-Songwriter
+F01894,Pop
+F01894,Hip-Hop
+F01895,Pop
+F01895,Techno
+F01898,R&B
+F01898,House
+F01900,House
+F01900,Singer-Songwriter
+F01900,Techno
+F01902,R&B
+F01903,Deutschrap
+F01905,Pop
+F01905,Singer-Songwriter
+F01905,Indie Rock
+F01906,Techno
+F01906,Pop
+F01906,Metal
+F01907,Techno
+F01907,Hip-Hop
+F01908,Pop
+F01908,Techno
+F01909,Metal
+F01909,Deutschrap
+F01910,Deutschrap
+F01910,R&B
+F01911,Indie Rock
+F01911,Hip-Hop
+F01911,Metal
+F01913,Punk
+F01913,House
+F01916,Metal
+F01916,House
+F01916,Pop
+F01917,Techno
+F01917,Pop
+F01917,Hip-Hop
+F01919,Indie Rock
+F01919,Punk
+F01919,Deutschrap
+F01920,Techno
+F01920,Pop
+F01920,R&B
+F01925,Metal
+F01925,Hip-Hop
+F01928,Singer-Songwriter
+F01929,Hip-Hop
+F01929,Indie Rock
+F01930,Deutschrap
+F01930,R&B
+F01931,Deutschrap
+F01933,Deutschrap
+F01933,Pop
+F01934,Hip-Hop
+F01934,Pop
+F01935,House
+F01935,R&B
+F01936,Techno
+F01936,Metal
+F01936,Hip-Hop
+F01937,R&B
+F01937,House
+F01938,Techno
+F01938,Pop
+F01939,R&B
+F01939,Hip-Hop
+F01941,Techno
+F01942,Hip-Hop
+F01942,Deutschrap
+F01944,R&B
+F01944,Indie Rock
+F01945,Pop
+F01946,Pop
+F01946,Singer-Songwriter
+F01947,Singer-Songwriter
+F01947,Hip-Hop
+F01948,Pop
+F01948,Deutschrap
+F01948,House
+F01951,House
+F01952,Punk
+F01953,Indie Rock
+F01955,Deutschrap
+F01955,Singer-Songwriter
+F01956,Indie Rock
+F01956,Deutschrap
+F01957,Indie Rock
+F01959,Hip-Hop
+F01959,Pop
+F01960,Deutschrap
+F01961,Pop
+F01962,Metal
+F01963,Punk
+F01966,Deutschrap
+F01966,Singer-Songwriter
+F01967,Indie Rock
+F01970,Pop
+F01973,Punk
+F01973,Indie Rock
+F01974,Singer-Songwriter
+F01974,Indie Rock
+F01974,Deutschrap
+F01975,Hip-Hop
+F01975,Indie Rock
+F01976,Indie Rock
+F01979,Hip-Hop
+F01983,Hip-Hop
+F01984,Singer-Songwriter
+F01984,Metal
+F01986,Indie Rock
+F01986,Pop
+F01986,R&B
+F01987,Punk
+F01988,Techno
+F01988,Pop
+F01989,Indie Rock
+F01989,House
+F01989,Hip-Hop
+F01990,Indie Rock
+F01992,Singer-Songwriter
+F01992,Punk
+F01992,Pop
+F01993,Hip-Hop
+F01993,Punk
+F01995,R&B
+F01997,Hip-Hop
+F01997,House
+F01997,Pop
+F01998,House
+F01999,Indie Rock
+F01999,Singer-Songwriter
+F02000,R&B
+F02003,Singer-Songwriter
+F02004,Deutschrap
+F02005,R&B
+F02007,Metal
+F02009,Indie Rock
+F02012,Hip-Hop
+F02012,Pop
+F02013,Techno
+F02013,Hip-Hop
+F02017,Hip-Hop
+F02017,House
+F02018,Deutschrap
+F02018,Pop
+F02018,Metal
+F02023,Techno
+F02025,Pop
+F02028,Metal
+F02029,Pop
+F02034,Pop
+F02034,Hip-Hop
+F02036,Techno
+F02036,Pop
+F02037,Punk
+F02040,Pop
+F02041,House
+F02042,Techno
+F02043,Pop
+F02043,Hip-Hop
+F02045,Metal
+F02045,Pop
+F02046,Techno
+F02046,Pop
+F02046,Metal
+F02049,House
+F02049,Indie Rock
+F02051,Hip-Hop
+F02054,Deutschrap
+F02054,Pop
+F02054,Metal
+F02057,Singer-Songwriter
+F02057,R&B
+F02058,R&B
+F02058,Indie Rock
+F02058,Singer-Songwriter
+F02061,Deutschrap
+F02062,Techno
+F02062,House
+F02062,Pop
+F02063,Techno
+F02063,House
+F02064,Indie Rock
+F02064,Techno
+F02065,Techno
+F02066,Deutschrap
+F02067,Singer-Songwriter
+F02068,Deutschrap
+F02070,Pop
+F02070,House
+F02071,Hip-Hop
+F02071,Indie Rock
+F02071,Punk
+F02075,Hip-Hop
+F02077,Techno
+F02077,Singer-Songwriter
+F02078,Techno
+F02078,Pop
+F02078,R&B
+F02079,Pop
+F02079,Hip-Hop
+F02080,Pop
+F02082,Deutschrap
+F02082,Indie Rock
+F02086,Pop
+F02086,Indie Rock
+F02086,Metal
+F02087,House
+F02092,Indie Rock
+F02092,Hip-Hop
+F02094,Metal
+F02094,Techno
+F02094,Singer-Songwriter
+F02095,Techno
+F02095,Hip-Hop
+F02097,R&B
+F02097,Techno
+F02098,Pop
+F02098,Deutschrap
+F02100,Pop
+F02100,Indie Rock
+F02101,Pop
+F02102,Deutschrap
+F02102,Indie Rock
+F02104,Indie Rock
+F02104,Singer-Songwriter
+F02104,House
+F02105,Punk
+F02105,Hip-Hop
+F02106,House
+F02106,Indie Rock
+F02107,Indie Rock
+F02109,House
+F02109,Punk
+F02111,Singer-Songwriter
+F02112,R&B
+F02112,Pop
+F02114,Punk
+F02114,Pop
+F02115,Hip-Hop
+F02117,Metal
+F02118,Singer-Songwriter
+F02119,Deutschrap
+F02120,Indie Rock
+F02120,Techno
+F02122,Deutschrap
+F02122,House
+F02124,Hip-Hop
+F02127,Pop
+F02127,Hip-Hop
+F02127,Punk
+F02128,Hip-Hop
+F02128,Metal
+F02128,House
+F02129,House
+F02131,Deutschrap
+F02134,Hip-Hop
+F02134,R&B
+F02134,Deutschrap
+F02136,Deutschrap
+F02137,Hip-Hop
+F02137,Indie Rock
+F02139,R&B
+F02139,Techno
+F02139,Pop
+F02140,Hip-Hop
+F02140,Techno
+F02142,Indie Rock
+F02142,Deutschrap
+F02142,Singer-Songwriter
+F02145,Techno
+F02145,Punk
+F02146,Hip-Hop
+F02149,Indie Rock
+F02151,Deutschrap
+F02151,Metal
+F02152,Indie Rock
+F02152,Hip-Hop
+F02153,Singer-Songwriter
+F02153,House
+F02154,Techno
+F02155,R&B
+F02157,R&B
+F02157,Indie Rock
+F02160,R&B
+F02161,Indie Rock
+F02161,Punk
+F02161,Pop
+F02162,Pop
+F02163,Deutschrap
+F02163,Techno
+F02164,House
+F02165,Pop
+F02165,Indie Rock
+F02166,Punk
+F02171,R&B
+F02171,Indie Rock
+F02172,House
+F02172,Deutschrap
+F02172,Metal
+F02175,Metal
+F02175,House
+F02176,Singer-Songwriter
+F02176,House
+F02178,R&B
+F02178,Pop
+F02178,Indie Rock
+F02179,Punk
+F02179,Pop
+F02180,Pop
+F02180,Punk
+F02180,Metal
+F02181,Punk
+F02181,Indie Rock
+F02184,R&B
+F02184,Hip-Hop
+F02185,Deutschrap
+F02185,Indie Rock
+F02186,Hip-Hop
+F02187,Techno
+F02187,House
+F02190,Pop
+F02190,Deutschrap
+F02193,R&B
+F02193,Hip-Hop
+F02194,Pop
+F02194,Hip-Hop
+F02195,Techno
+F02195,Punk
+F02195,Deutschrap
+F02196,Deutschrap
+F02196,Metal
+F02197,Techno
+F02199,R&B
+F02199,Metal
+F02200,Punk
+F02202,R&B
+F02202,Indie Rock
+F02203,Metal
+F02204,R&B
+F02204,Pop
+F02205,Hip-Hop
+F02205,Punk
+F02206,Hip-Hop
+F02206,Pop
+F02207,R&B
+F02208,Deutschrap
+F02212,Techno
+F02214,Punk
+F02214,Hip-Hop
+F02216,Deutschrap
+F02216,Metal
+F02218,Hip-Hop
+F02218,Pop
+F02218,Deutschrap
+F02220,Punk
+F02221,Hip-Hop
+F02221,Techno
+F02223,Singer-Songwriter
+F02223,Pop
+F02223,Techno
+F02225,Singer-Songwriter
+F02225,Hip-Hop
+F02226,Metal
+F02229,Deutschrap
+F02229,Pop
+F02230,Pop
+F02230,Metal
+F02232,Techno
+F02232,Pop
+F02233,Deutschrap
+F02234,Pop
+F02234,Indie Rock
+F02234,Metal
+F02235,Pop
+F02237,R&B
+F02237,Deutschrap
+F02240,Indie Rock
+F02240,R&B
+F02240,Hip-Hop
+F02241,Techno
+F02241,Indie Rock
+F02243,Pop
+F02245,Deutschrap
+F02245,Hip-Hop
+F02246,R&B
+F02246,Pop
+F02246,Singer-Songwriter
+F02247,Punk
+F02247,Hip-Hop
+F02250,Deutschrap
+F02250,Techno
+F02250,Hip-Hop
+F02253,Hip-Hop
+F02253,House
+F02253,Deutschrap
+F02256,Pop
+F02258,Hip-Hop
+F02260,Techno
+F02260,Singer-Songwriter
+F02260,House
+F02261,Indie Rock
+F02262,Metal
+F02262,Pop
+F02264,Pop
+F02265,Hip-Hop
+F02265,House
+F02265,Indie Rock
+F02266,Indie Rock
+F02267,Indie Rock
+F02269,Hip-Hop
+F02269,Indie Rock
+F02271,Indie Rock
+F02271,Pop
+F02271,R&B
+F02272,Pop
+F02272,Indie Rock
+F02273,Singer-Songwriter
+F02276,Techno
+F02276,Punk
+F02276,Hip-Hop
+F02281,Indie Rock
+F02281,Deutschrap
+F02284,Hip-Hop
+F02291,Pop
+F02292,Deutschrap
+F02296,Techno
+F02297,Indie Rock
+F02298,Indie Rock
+F02298,House
+F02300,Indie Rock
+F02300,R&B
+F02301,Singer-Songwriter
+F02302,Deutschrap
+F02303,Pop
+F02308,Techno
+F02308,R&B
+F02310,Hip-Hop
+F02310,Techno
+F02310,Pop
+F02312,Deutschrap
+F02312,Indie Rock
+F02312,Pop
+F02313,Metal
+F02313,Pop
+F02314,Deutschrap
+F02317,Techno
+F02318,Deutschrap
+F02319,Punk
+F02319,Deutschrap
+F02320,Singer-Songwriter
+F02321,R&B
+F02321,Punk
+F02322,Pop
+F02323,Hip-Hop
+F02323,Techno
+F02324,Singer-Songwriter
+F02324,Metal
+F02325,Indie Rock
+F02325,House
+F02326,House
+F02330,R&B
+F02333,Singer-Songwriter
+F02333,Hip-Hop
+F02335,Deutschrap
+F02336,Punk
+F02337,Metal
+F02338,Hip-Hop
+F02339,Metal
+F02339,Punk
+F02339,Pop
+F02340,Punk
+F02340,Pop
+F02342,R&B
+F02342,Punk
+F02343,Hip-Hop
+F02344,Indie Rock
+F02345,Techno
+F02345,Hip-Hop
+F02345,Punk
+F02347,R&B
+F02347,Indie Rock
+F02349,Indie Rock
+F02350,Deutschrap
+F02350,Pop
+F02350,Hip-Hop
+F02353,Pop
+F02353,R&B
+F02356,Pop
+F02357,House
+F02357,Pop
+F02358,Pop
+F02358,Hip-Hop
+F02360,Hip-Hop
+F02361,Singer-Songwriter
+F02363,House
+F02363,Singer-Songwriter
+F02365,Singer-Songwriter
+F02366,Hip-Hop
+F02366,Metal
+F02367,Singer-Songwriter
+F02368,R&B
+F02368,Metal
+F02369,Punk
+F02371,Indie Rock
+F02371,House
+F02371,Techno
+F02373,Deutschrap
+F02375,Deutschrap
+F02376,Techno
+F02378,Pop
+F02379,Hip-Hop
+F02379,Singer-Songwriter
+F02379,Metal
+F02381,Techno
+F02381,Hip-Hop
+F02382,Indie Rock
+F02382,Pop
+F02384,Metal
+F02384,Punk
+F02386,Deutschrap
+F02386,Pop
+F02386,Singer-Songwriter
+F02387,Indie Rock
+F02388,Deutschrap
+F02390,Indie Rock
+F02391,Hip-Hop
+F02391,Metal
+F02391,Pop
+F02392,Indie Rock
+F02392,Techno
+F02393,Punk
+F02393,Pop
+F02394,Techno
+F02394,Pop
+F02397,Hip-Hop
+F02397,Indie Rock
+F02398,Metal
+F02398,R&B
+F02400,Hip-Hop
+F02400,Indie Rock
+F02401,Pop
+F02402,Pop
+F02402,Indie Rock
+F02405,Pop
+F02405,Metal
+F02406,Singer-Songwriter
+F02407,Indie Rock
+F02409,Hip-Hop
+F02409,Pop
+F02410,Deutschrap
+F02410,Pop
+F02411,Techno
+F02412,Pop
+F02412,Indie Rock
+F02412,Metal
+F02415,Indie Rock
+F02415,Punk
+F02415,Deutschrap
+F02416,Hip-Hop
+F02417,Metal
+F02418,Pop
+F02418,Hip-Hop
+F02420,Indie Rock
+F02421,Punk
+F02421,Indie Rock
+F02421,Deutschrap
+F02423,Hip-Hop
+F02424,Pop
+F02424,Singer-Songwriter
+F02425,Pop
+F02425,Metal
+F02426,Pop
+F02426,House
+F02427,Hip-Hop
+F02427,Deutschrap
+F02427,Singer-Songwriter
+F02429,Hip-Hop
+F02429,R&B
+F02430,Deutschrap
+F02430,Singer-Songwriter
+F02430,Pop
+F02431,Hip-Hop
+F02431,House
+F02431,R&B
+F02433,Singer-Songwriter
+F02433,Indie Rock
+F02434,Techno
+F02434,Punk
+F02436,Techno
+F02436,Punk
+F02437,Hip-Hop
+F02437,Pop
+F02439,R&B
+F02439,House
+F02441,Deutschrap
+F02441,Singer-Songwriter
+F02442,House
+F02442,Metal
+F02443,Pop
+F02445,Pop
+F02445,Punk
+F02445,Techno
+F02450,R&B
+F02450,Indie Rock
+F02451,R&B
+F02452,Punk
+F02452,House
+F02453,Metal
+F02453,Techno
+F02456,Hip-Hop
+F02457,Deutschrap
+F02458,Punk
+F02458,Metal
+F02461,Pop
+F02461,Indie Rock
+F02461,Metal
+F02463,Punk
+F02463,House
+F02463,Hip-Hop
+F02466,Pop
+F02467,Hip-Hop
+F02469,Metal
+F02469,Indie Rock
+F02473,Hip-Hop
+F02473,Pop
+F02475,Techno
+F02476,House
+F02480,Pop
+F02480,House
+F02481,Deutschrap
+F02484,Deutschrap
+F02486,Indie Rock
+F02487,House
+F02487,Techno
+F02488,Metal
+F02488,Hip-Hop
+F02490,Metal
+F02493,Deutschrap
+F02498,Hip-Hop
+F02501,Indie Rock
+F02501,Hip-Hop
+F02504,Indie Rock
+F02504,Techno
+F02505,Metal
+F02506,Singer-Songwriter
+F02507,Deutschrap
+F02507,Pop
+F02508,Pop
+F02510,Pop
+F02510,Techno
+F02511,Hip-Hop
+F02511,Pop
+F02512,Punk
+F02513,Deutschrap
+F02516,R&B
+F02517,Singer-Songwriter
+F02517,Indie Rock
+F02518,Indie Rock
+F02518,Pop
+F02519,Punk
+F02519,Indie Rock
+F02521,Metal
+F02521,Punk
+F02522,Deutschrap
+F02523,Deutschrap
+F02523,Singer-Songwriter
+F02524,House
+F02525,Indie Rock
+F02525,Pop
+F02527,Punk
+F02527,Techno
+F02528,Punk
+F02530,Hip-Hop
+F02532,Deutschrap
+F02534,Punk
+F02534,R&B
+F02537,Metal
+F02537,House
+F02538,Singer-Songwriter
+F02538,Indie Rock
+F02538,Punk
+F02540,Hip-Hop
+F02540,Pop
+F02541,Hip-Hop
+F02542,House
+F02542,Punk
+F02543,Deutschrap
+F02544,R&B
+F02546,Techno
+F02546,Hip-Hop
+F02548,Indie Rock
+F02548,Punk
+F02549,Hip-Hop
+F02549,Indie Rock
+F02550,Pop
+F02550,Punk
+F02553,Deutschrap
+F02553,Indie Rock
+F02555,Techno
+F02556,House
+F02556,R&B
+F02557,Singer-Songwriter
+F02558,Hip-Hop
+F02558,Deutschrap
+F02560,R&B
+F02567,Punk
+F02567,Deutschrap
+F02568,Hip-Hop
+F02568,Punk
+F02570,Pop
+F02573,Hip-Hop
+F02573,Singer-Songwriter
+F02574,Pop
+F02574,R&B
+F02576,Deutschrap
+F02578,Techno
+F02578,Punk
+F02583,Deutschrap
+F02583,Punk
+F02584,Hip-Hop
+F02589,Metal
+F02590,R&B
+F02590,Hip-Hop
+F02592,Hip-Hop
+F02593,Hip-Hop
+F02595,Pop
+F02596,Metal
+F02599,Punk
+F02599,Indie Rock
+F02600,Deutschrap
+F02601,Techno
+F02601,Indie Rock
+F02602,Indie Rock
+F02605,R&B
+F02607,House
+F02609,Singer-Songwriter
+F02609,House
+F02611,R&B
+F02611,Deutschrap
+F02613,Hip-Hop
+F02613,House
+F02613,Punk
+F02614,Hip-Hop
+F02614,Indie Rock
+F02615,Punk
+F02617,Singer-Songwriter
+F02617,House
+F02617,R&B
+F02618,Singer-Songwriter
+F02619,House
+F02619,Hip-Hop
+F02620,Singer-Songwriter
+F02621,Singer-Songwriter
+F02621,Deutschrap
+F02621,Hip-Hop
+F02626,Metal
+F02626,Deutschrap
+F02627,Deutschrap
+F02627,House
+F02629,Hip-Hop
+F02631,Punk
+F02632,Pop
+F02633,Punk
+F02634,Pop
+F02634,House
+F02635,Pop
+F02635,Indie Rock
+F02637,Pop
+F02637,Indie Rock
+F02641,Pop
+F02641,House
+F02641,Deutschrap
+F02642,Singer-Songwriter
+F02642,Hip-Hop
+F02642,House
+F02644,Indie Rock
+F02645,Hip-Hop
+F02645,Pop
+F02645,Deutschrap
+F02646,Metal
+F02646,Pop
+F02647,Pop
+F02647,House
+F02651,Pop
+F02651,Techno
+F02654,Indie Rock
+F02658,R&B
+F02659,Techno
+F02660,Punk
+F02661,Singer-Songwriter
+F02662,Metal
+F02662,Techno
+F02664,Hip-Hop
+F02664,Pop
+F02664,Techno
+F02665,Singer-Songwriter
+F02666,Singer-Songwriter
+F02666,Techno
+F02667,Singer-Songwriter
+F02667,House
+F02667,Techno
+F02668,Hip-Hop
+F02668,R&B
+F02670,Indie Rock
+F02671,Hip-Hop
+F02671,Metal
+F02672,Punk
+F02672,R&B
+F02676,Pop
+F02676,Deutschrap
+F02680,Hip-Hop
+F02683,Techno
+F02683,Deutschrap
+F02684,Metal
+F02688,Singer-Songwriter
+F02688,Indie Rock
+F02688,House
+F02690,Punk
+F02690,R&B
+F02691,R&B
+F02693,Techno
+F02693,Hip-Hop
+F02693,Punk
+F02694,Metal
+F02694,House
+F02694,Indie Rock
+F02695,R&B
+F02697,R&B
+F02697,Metal
+F02697,Indie Rock
+F02704,Singer-Songwriter
+F02704,Pop
+F02707,House
+F02707,Hip-Hop
+F02707,Pop
+F02708,Indie Rock
+F02708,Techno
+F02709,House
+F02713,Metal
+F02713,R&B
+F02713,Indie Rock
+F02714,Hip-Hop
+F02714,House
+F02714,Techno
+F02715,Hip-Hop
+F02715,R&B
+F02717,Pop
+F02719,Hip-Hop
+F02719,Indie Rock
+F02720,Techno
+F02723,Metal
+F02725,R&B
+F02725,Punk
+F02725,Techno
+F02727,R&B
+F02728,Techno
+F02729,Pop
+F02729,Punk
+F02732,Singer-Songwriter
+F02732,Techno
+F02732,Metal
+F02734,Pop
+F02734,Punk
+F02735,House
+F02735,Hip-Hop
+F02738,Hip-Hop
+F02738,Techno
+F02743,Deutschrap
+F02743,Techno
+F02745,Techno
+F02745,R&B
+F02746,House
+F02747,House
+F02748,Deutschrap
+F02748,R&B
+F02748,House
+F02749,Punk
+F02749,Hip-Hop
+F02749,Metal
+F02751,House
+F02751,Indie Rock
+F02752,R&B
+F02752,Pop
+F02753,Deutschrap
+F02754,Hip-Hop
+F02754,Pop
+F02755,Deutschrap
+F02755,Singer-Songwriter
+F02756,House
+F02758,House
+F02758,Techno
+F02761,R&B
+F02761,Hip-Hop
+F02761,Pop
+F02762,Metal
+F02762,Deutschrap
+F02762,Punk
+F02763,Pop
+F02764,Hip-Hop
+F02764,Pop
+F02765,R&B
+F02766,Techno
+F02768,Deutschrap
+F02768,Hip-Hop
+F02769,Indie Rock
+F02769,Punk
+F02769,Techno
+F02771,R&B
+F02772,Indie Rock
+F02773,Pop
+F02773,Indie Rock
+F02775,Indie Rock
+F02775,Deutschrap
+F02775,Pop
+F02776,Indie Rock
+F02779,Deutschrap
+F02781,Pop
+F02781,Metal
+F02783,Techno
+F02783,Deutschrap
+F02786,R&B
+F02786,Deutschrap
+F02790,Hip-Hop
+F02790,Indie Rock
+F02791,R&B
+F02793,House
+F02793,R&B
+F02793,Metal
+F02795,Singer-Songwriter
+F02795,Deutschrap
+F02798,Hip-Hop
+F02798,Techno
+F02799,House
+F02799,Punk
+F02800,Punk
+F02800,Singer-Songwriter
+F02801,Hip-Hop
+F02801,Indie Rock
+F02802,Hip-Hop
+F02802,Deutschrap
+F02803,Indie Rock
+F02803,Deutschrap
+F02803,Punk
+F02804,R&B
+F02804,Deutschrap
+F02804,Hip-Hop
+F02805,Indie Rock
+F02805,Hip-Hop
+F02806,Indie Rock
+F02807,R&B
+F02808,Deutschrap
+F02808,Indie Rock
+F02811,Singer-Songwriter
+F02811,Techno
+F02812,Pop
+F02812,R&B
+F02813,Pop
+F02814,Techno
+F02816,Punk
+F02818,Pop
+F02818,Deutschrap
+F02818,House
+F02819,Indie Rock
+F02819,House
+F02823,R&B
+F02823,Singer-Songwriter
+F02825,Punk
+F02825,Deutschrap
+F02826,Pop
+F02827,Deutschrap
+F02829,Pop
+F02829,Singer-Songwriter
+F02829,Indie Rock
+F02830,House
+F02830,Punk
+F02832,Singer-Songwriter
+F02832,Techno
+F02834,Punk
+F02837,Hip-Hop
+F02839,R&B
+F02839,Singer-Songwriter
+F02842,Pop
+F02842,R&B
+F02846,Indie Rock
+F02846,Pop
+F02847,Techno
+F02847,House
+F02848,Deutschrap
+F02851,Hip-Hop
+F02851,Pop
+F02852,House
+F02855,House
+F02855,Singer-Songwriter
+F02857,Pop
+F02857,Deutschrap
+F02861,Hip-Hop
+F02861,Indie Rock
+F02862,Deutschrap
+F02862,House
+F02862,Hip-Hop
+F02863,Techno
+F02863,Metal
+F02864,Metal
+F02864,Hip-Hop
+F02865,Punk
+F02866,Pop
+F02866,House
+F02867,Deutschrap
+F02868,Pop
+F02868,Hip-Hop
+F02868,R&B
+F02869,Punk
+F02870,Indie Rock
+F02871,Deutschrap
+F02872,Pop
+F02872,Metal
+F02873,Deutschrap
+F02873,Pop
+F02874,Pop
+F02874,House
+F02875,House
+F02875,Indie Rock
+F02877,Techno
+F02878,Hip-Hop
+F02878,Pop
+F02881,R&B
+F02881,Punk
+F02882,Deutschrap
+F02882,R&B
+F02882,Techno
+F02885,Indie Rock
+F02887,Pop
+F02890,Deutschrap
+F02891,Hip-Hop
+F02891,Indie Rock
+F02891,Techno
+F02892,Indie Rock
+F02892,Singer-Songwriter
+F02895,R&B
+F02896,Indie Rock
+F02896,Pop
+F02897,House
+F02900,Hip-Hop
+F02901,House
+F02901,Pop
+F02902,Techno
+F02902,Hip-Hop
+F02902,Deutschrap
+F02903,Hip-Hop
+F02903,Indie Rock
+F02904,Indie Rock
+F02905,Singer-Songwriter
+F02905,Punk
+F02906,Hip-Hop
+F02906,Metal
+F02907,House
+F02907,Singer-Songwriter
+F02907,Indie Rock
+F02910,Deutschrap
+F02911,Singer-Songwriter
+F02911,Pop
+F02912,Deutschrap
+F02913,Hip-Hop
+F02913,Deutschrap
+F02913,House
+F02914,Punk
+F02914,Pop
+F02915,R&B
+F02915,Techno
+F02916,House
+F02917,Pop
+F02917,Deutschrap
+F02920,Hip-Hop
+F02920,Indie Rock
+F02923,Indie Rock
+F02924,R&B
+F02924,Pop
+F02924,Metal
+F02926,Indie Rock
+F02926,Hip-Hop
+F02926,Pop
+F02927,Deutschrap
+F02927,Techno
+F02928,R&B
+F02928,Pop
+F02929,Singer-Songwriter
+F02929,Deutschrap
+F02930,Deutschrap
+F02933,Pop
+F02934,Deutschrap
+F02934,Singer-Songwriter
+F02935,Hip-Hop
+F02937,Indie Rock
+F02937,R&B
+F02937,Hip-Hop
+F02938,Metal
+F02938,Deutschrap
+F02939,Punk
+F02939,Hip-Hop
+F02940,R&B
+F02940,Indie Rock
+F02942,Hip-Hop
+F02942,House
+F02943,Pop
+F02943,Deutschrap
+F02944,Techno
+F02944,Pop
+F02945,Techno
+F02945,Pop
+F02945,Singer-Songwriter
+F02947,House
+F02947,Pop
+F02950,Indie Rock
+F02950,Punk
+F02952,Techno
+F02952,Hip-Hop
+F02953,Indie Rock
+F02953,Hip-Hop
+F02957,Singer-Songwriter
+F02957,Pop
+F02960,Pop
+F02960,House
+F02962,House
+F02963,Indie Rock
+F02963,Deutschrap
+F02963,Metal
+F02964,House
+F02964,Indie Rock
+F02965,R&B
+F02965,Indie Rock
+F02971,Indie Rock
+F02975,Singer-Songwriter
+F02975,Punk
+F02975,Pop
+F02976,Hip-Hop
+F02977,Pop
+F02978,Pop
+F02978,R&B
+F02979,Deutschrap
+F02982,House
+F02983,Hip-Hop
+F02983,Metal
+F02983,Techno
+F02986,Hip-Hop
+F02986,Singer-Songwriter
+F02987,Hip-Hop
+F02989,Metal
+F02989,Punk
+F02990,Techno
+F02991,Pop
+F02993,Metal
+F02993,R&B
+F02993,Hip-Hop
+F02994,R&B
+F02994,Singer-Songwriter
+F02999,Indie Rock
+F02999,Singer-Songwriter
+F02999,Pop
+F03000,Indie Rock
+F03000,Hip-Hop

@@ -1,0 +1,95 @@
+eventId,name,type,date,onSaleDate,priceEur,venueId
+E0001,Nova Kaiser – Stuttgart 2025,concert,2025-10-29,2025-06-20,84.0,V12
+E0002,Nova Kaiser – Leipzig 2025,concert,2025-04-20,2024-10-27,58.0,V11
+E0003,Nova Kaiser – Berlin 2026,concert,2026-08-18,2026-04-15,115.0,V01
+E0004,Nova Kaiser – Munich 2026,concert,2026-04-25,2025-11-01,87.0,V06
+E0005,Kiez Kollektiv – Hamburg 2027,concert,2027-01-05,2026-08-04,55.0,V04
+E0006,Kiez Kollektiv – Frankfurt 2025,concert,2025-05-05,2025-01-14,57.0,V10
+E0007,The Velvet Static – Berlin 2027,concert,2027-02-07,2026-09-02,104.0,V01
+E0008,The Velvet Static – Stuttgart 2027,concert,2027-05-20,2026-11-21,109.0,V12
+E0009,The Velvet Static – Munich 2027,concert,2027-01-12,2026-09-26,72.0,V06
+E0010,The Velvet Static – Hamburg 2027,concert,2027-06-15,2027-02-06,72.0,V04
+E0011,Mira Solé – Cologne 2025,concert,2025-07-06,2025-02-09,56.0,V08
+E0012,Mira Solé – Berlin 2026,concert,2026-10-06,2026-04-08,50.0,V02
+E0013,Mira Solé – Stuttgart 2026,concert,2026-02-13,2025-10-02,129.0,V12
+E0014,Saint Marlowe – Munich 2027,concert,2027-06-03,2026-11-17,119.0,V06
+E0015,Saint Marlowe – Frankfurt 2025,concert,2025-10-22,2025-07-06,51.0,V10
+E0016,Saint Marlowe – Stuttgart 2025,concert,2025-08-26,2025-02-24,101.0,V12
+E0017,Saint Marlowe – Berlin 2025,concert,2025-09-30,2025-03-19,105.0,V01
+E0018,Iron Lantern – Stuttgart 2026,concert,2026-03-05,2025-10-10,84.0,V12
+E0019,Iron Lantern – Munich 2025,concert,2025-04-24,2024-10-10,73.0,V06
+E0020,Iron Lantern – Berlin 2027,concert,2027-04-12,2026-10-07,97.0,V01
+E0021,Tiefdruck – Zurich 2025,concert,2025-10-05,2025-04-18,25.0,V14
+E0022,Tiefdruck – Leipzig 2027,concert,2027-02-28,2026-10-17,69.0,V11
+E0023,Tiefdruck – Frankfurt 2025,concert,2025-07-01,2025-01-24,45.0,V10
+E0024,Tiefdruck – Munich 2026,concert,2026-06-17,2025-12-02,30.0,V07
+E0025,Ostwind – Munich 2027,concert,2027-06-01,2026-12-02,41.0,V07
+E0026,Ostwind – Hamburg 2026,concert,2026-07-27,2026-01-09,74.0,V04
+E0027,Paper Harbours – Frankfurt 2025,concert,2025-02-09,2024-10-18,74.0,V10
+E0028,Paper Harbours – Hamburg 2027,concert,2027-07-09,2027-01-18,75.0,V04
+E0029,Lena Wilder – Zurich 2027,concert,2027-03-16,2026-11-20,29.0,V14
+E0030,Lena Wilder – Hamburg 2025,concert,2025-10-19,2025-05-05,44.0,V05
+E0031,Neon Bassline – Hamburg 2027,concert,2027-01-21,2026-09-04,37.0,V05
+E0032,Neon Bassline – Leipzig 2026,concert,2026-07-04,2026-01-28,48.0,V11
+E0033,Neon Bassline – Cologne 2026,concert,2026-09-15,2026-05-10,45.0,V08
+E0034,Neon Bassline – Berlin 2025,concert,2025-02-22,2024-07-27,55.0,V02
+E0035,Lia & The Lowlights – Hamburg 2026,concert,2026-07-27,2026-04-02,68.0,V04
+E0036,Lia & The Lowlights – Leipzig 2025,concert,2025-09-26,2025-03-10,60.0,V11
+E0037,Dark Matter Society – Vienna 2026,concert,2026-04-07,2025-11-13,58.0,V13
+E0038,Lukas Brandt – Vienna 2025,concert,2025-05-01,2025-01-14,57.0,V13
+E0039,Lukas Brandt – Berlin 2025,concert,2025-10-02,2025-05-31,31.0,V03
+E0040,Lukas Brandt – Cologne 2025,concert,2025-11-02,2025-05-27,52.0,V08
+E0041,Block 17 – Leipzig 2025,concert,2025-05-01,2025-01-15,65.0,V11
+E0042,Satellite Hearts – Hamburg 2025,concert,2025-07-10,2025-02-08,40.0,V05
+E0043,Juno Arcade – Hamburg 2026,concert,2026-02-13,2025-11-05,37.0,V05
+E0044,Juno Arcade – Vienna 2026,concert,2026-11-29,2026-05-22,60.0,V13
+E0045,Pulse Cathedral – Zurich 2027,concert,2027-02-13,2026-08-28,26.0,V14
+E0046,Glasshouse Riot – Frankfurt 2026,concert,2026-06-19,2025-11-14,72.0,V10
+E0047,Yara Blue – Berlin 2027,concert,2027-06-11,2027-02-08,27.0,V03
+E0048,Black Fjord – Cologne 2025,concert,2025-05-23,2024-10-15,43.0,V09
+E0049,Black Fjord – Leipzig 2026,concert,2026-11-25,2026-06-04,63.0,V11
+E0050,Black Fjord – Hamburg 2026,concert,2026-12-07,2026-05-30,35.0,V05
+E0051,MC Kurzschluss – Cologne 2026,concert,2026-05-04,2025-12-15,74.0,V08
+E0052,The Hollow Pines – Leipzig 2026,concert,2026-08-20,2026-04-30,47.0,V11
+E0053,Amber Coast – Munich 2027,concert,2027-07-12,2027-03-26,32.0,V07
+E0054,Amber Coast – Cologne 2026,concert,2026-10-09,2026-03-20,45.0,V09
+E0055,Amber Coast – Zurich 2025,concert,2025-11-23,2025-04-18,28.0,V14
+E0056,Rosa Vandal – Berlin 2027,concert,2027-02-20,2026-09-03,29.0,V03
+E0057,Elbtunnel – Hamburg 2026,concert,2026-12-25,2026-06-27,33.0,V05
+E0058,Velour – Berlin 2025,concert,2025-04-25,2024-10-26,58.0,V02
+E0059,Velour – Cologne 2027,concert,2027-03-21,2026-11-25,45.0,V09
+E0060,Concrete Choir – Zurich 2027,concert,2027-01-13,2026-08-12,42.0,V14
+E0061,Morning Atlas – Vienna 2025,concert,2025-06-22,2025-01-04,46.0,V13
+E0062,Kollaps Kids – Cologne 2025,concert,2025-05-31,2025-02-15,34.0,V09
+E0063,Kollaps Kids – Hamburg 2026,concert,2026-12-20,2026-08-11,66.0,V04
+E0064,Kollaps Kids – Vienna 2026,concert,2026-10-18,2026-04-06,49.0,V13
+E0065,Hammerhai – Hamburg 2027,concert,2027-07-12,2027-02-10,45.0,V04
+E0066,Sunday Arsonists – Vienna 2027,concert,2027-05-01,2026-12-21,53.0,V13
+E0067,Sunday Arsonists – Berlin 2027,concert,2027-06-19,2027-01-10,32.0,V03
+E0068,Grave Cartel – Hamburg 2025,concert,2025-09-06,2025-05-26,31.0,V05
+E0069,Grave Cartel – Berlin 2027,concert,2027-03-23,2026-11-08,36.0,V03
+E0070,Silk Verdict – Zurich 2025,concert,2025-12-26,2025-05-20,25.0,V14
+E0071,Silk Verdict – Hamburg 2026,concert,2026-09-07,2026-04-27,46.0,V04
+E0072,Dub Kolonie – Munich 2026,concert,2026-04-12,2025-10-17,41.0,V07
+E0073,Dub Kolonie – Zurich 2025,concert,2025-01-22,2024-08-09,42.0,V14
+E0074,The Kerosene Saints – Hamburg 2026,concert,2026-01-28,2025-08-26,27.0,V05
+E0075,The Kerosene Saints – Vienna 2025,concert,2025-12-08,2025-06-07,72.0,V13
+E0076,The Kerosene Saints – Frankfurt 2026,concert,2026-12-04,2026-07-05,55.0,V10
+E0077,Fernweh – Hamburg 2026,concert,2026-03-27,2025-09-23,37.0,V05
+E0078,Fernweh – Vienna 2026,concert,2026-08-26,2026-04-10,57.0,V13
+E0079,Club Mondschein – Hamburg 2026,concert,2026-04-06,2025-09-18,43.0,V05
+E0080,Static Bloom – Cologne 2026,concert,2026-12-13,2026-08-08,41.0,V09
+E0081,Static Bloom – Hamburg 2026,concert,2026-11-26,2026-08-08,54.0,V04
+E0082,Nachtfalter – Berlin 2027,concert,2027-05-09,2026-10-25,32.0,V03
+E0083,Nachtfalter – Munich 2025,concert,2025-06-20,2025-03-09,26.0,V07
+E0084,Nachtfalter – Hamburg 2026,concert,2026-05-02,2025-11-30,45.0,V05
+E0085,Nova Kaiser – Berlin 2027,concert,2027-02-20,2026-09-23,115.0,V01
+E-FEST1-2025,Nordlicht Festival 2025,festival,2025-06-20,2024-10-01,253.0,V15
+E-FEST1-2026,Nordlicht Festival 2026,festival,2026-06-20,2025-10-01,200.0,V15
+E-FEST1-2027,Nordlicht Festival 2027,festival,2027-06-20,2026-10-01,244.0,V15
+E-FEST2-2025,Isarwelle Open Air 2025,festival,2025-07-18,2024-10-01,238.0,V16
+E-FEST2-2026,Isarwelle Open Air 2026,festival,2026-07-18,2025-10-01,238.0,V16
+E-FEST2-2027,Isarwelle Open Air 2027,festival,2027-07-18,2026-10-01,225.0,V16
+E-FEST3-2025,Tiefgrün Festival 2025,festival,2025-08-08,2024-10-01,247.0,V17
+E-FEST3-2026,Tiefgrün Festival 2026,festival,2026-08-08,2025-10-01,249.0,V17
+E-FEST3-2027,Tiefgrün Festival 2027,festival,2027-08-08,2026-10-01,231.0,V17
